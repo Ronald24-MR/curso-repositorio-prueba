@@ -1,0 +1,92 @@
+commit 6b6acf2cb33cf4ef6ebc6e99a1aedd9add2eec16
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Mon Apr 24 17:57:15 2023 -0500
+
+    agregando 2 parrafos
+
+commit f00e90a863a328180f8866030ba3eb8318969072
+Merge: 5940522 abab330
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Mon Apr 24 17:55:23 2023 -0500
+
+    resolviendo conflictos en estaciones del anio con fecha de inicio
+
+commit 5940522c78fbb5c4de1afeecb78b8567105f3bf2
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Mon Apr 24 17:41:13 2023 -0500
+
+    agregando estaciones del anio con fecha de inicio
+
+commit abab330ca6651882fb79125fd38b456ae85aa49c
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Mon Apr 24 17:41:13 2023 -0500
+
+    agregando estaciones del anio
+
+commit 07f12b9425c313f598ed08611ca8b429b94a08dd
+Merge: cf99422 b520e1c
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Mon Apr 24 17:36:24 2023 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit b520e1cc7a466b09a70d8ef4d676e6d71107d9e2
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Mon Apr 24 17:31:20 2023 -0500
+
+    agregando index.js al index.html
+
+commit cf9942285ba482d4979c4b36400962c79b1c0a31
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Mon Apr 24 17:29:06 2023 -0500
+
+    agregando style.css al index.html
+
+commit 306726bcb5763aa8eb41c28c9c1272600d0335b8
+Merge: 9721c5f ed65574
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Mon Apr 24 17:20:59 2023 -0500
+
+    Merge branch 'js'
+
+commit ed655746d7deda3bd60299549c97181ee542b4ea
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Fri Apr 21 17:34:29 2023 -0500
+
+    creando index.js
+
+commit 9721c5f95e9f05d01097d7c6b31c090ecc38080f
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Fri Apr 21 17:30:30 2023 -0500
+
+    creando style.css
+
+commit 7be6f9022132738f1a09eb10474294f033b7a4c1
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Fri Apr 21 17:26:34 2023 -0500
+
+    creando archivo index.html
+
+commit 6ddc6777f8a84e16e6a5572e5e9ee3fbc3f31268
+Author: Ronald24-MR <105398804+Ronald24-MR@users.noreply.github.com>
+Date:   Wed Apr 19 17:43:14 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 89cce31119734c5267b45c7bc7f341ebfca4f379
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Wed Apr 19 17:37:15 2023 -0500
+
+    Agregando mas contenido al README
+
+commit 78a936454c127beac380e92e23a4487fc4e9df3a
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Wed Apr 19 17:26:46 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit f6a7c78a8cc4bc57070c134a98f2281a4fa00873
+Author: Ronald24-MR <ronaldfrbs08@gmail.com>
+Date:   Wed Apr 19 17:18:57 2023 -0500
+
+    Primer commit
